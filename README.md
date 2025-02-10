@@ -49,6 +49,6 @@
 
 - 이론 정리, 실습, 자료 업로드, 질의 응답
 - 질의 응답은 **issue**를 이용해 공유합니다. 생성된 이슈는 질의 응답 주제가 되며 스터디 종료 후 토론 내용에 대해 issue 생성자가 정리하여 업로드 합니다.
-- **Commit Convention :** #챕터번호 챕터명 *ex) #1 첫 번째 Junit 테스트 만들기*
+- **Commit Convention :** [N회차] 챕터명 *ex) [1회차] 첫 번째 Junit 테스트 만들기* (스터디는 총 4회 진행됩니다.)
 - **Branch Naming Convetion :** 본인이름
 - 학습 내용은 각자 branch에 업로드 하며 Pull Requeest를 이용합니다.
